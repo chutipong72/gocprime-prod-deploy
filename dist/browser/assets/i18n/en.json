@@ -1,0 +1,428 @@
+{
+  "LOGIN": "Login",
+  "LOGOUT": "Logout",
+  "REGISTER": "Register",
+  "ACCOUNT": "Account",
+  "SUBMIT_PROPERTY": "Submit property",
+  "MENU": "Menu",
+  "MY_PROPERTIES": "My Properties",
+  "FAVORITES": "Favorites",
+  "COMPARE": "Compare",
+  "EDIT_PROFILE": "Edit Profile",
+  "LOCK_SCREEN": "Lock screen",
+  "HELP": "Help",
+  "NAV": {
+    "HOME": "Home",
+    "PLATFORM" : "Platform",
+    "TRADING": "Trading",
+    "CALENDAR": "Calendar",
+    "ANNOUNCE": "Announcement",
+    "SUB_ANNOUNCEMENT": "Get all the latest news and updates from the company in one place.",
+    "PROMOTIONS": "Promotions",
+    "ABOUT_INFO": "Company",
+    "PARTNERS": "Partners",
+    "ACCOUNT": "Account",
+    "POINT_MALL": "Point Mall",
+
+    "PROPERTIES": "Properties",
+    "PAGES": "Pages",
+    "AGENTS": "Agents",
+    "AGENT": "Agent",
+    "FAQS": "Faqs",
+    "PRICING": "Pricing",
+    "LANDING": "Landing",
+    "404_PAGE": "404 Page",
+    "OTHERS": "Others",
+    "EXTERNAL_LINK": "External Link",
+    "MENU_ITEM": "Menu Item",
+    "CONTACT": "Contact",
+    "ABOUT_US": "About Us",
+    "ADMIN": "Admin",
+    "POLICY" : "Privacy Policy",
+    "RISK" : "Risk Warning",
+    "TERMS_CONDITIONS": "Terms & Conditions",
+    "ORDER_EXCUTION" : "Order Execution"
+  },
+  "BTN": {
+    "ADD": "Add",
+    "SAVE": "Save",
+    "SUBMIT": "Submit",
+    "CANCEL": "Cancel",
+    "UPLOAD": "Upload",
+    "REMOVE": "Remove",
+    "YES": "Yes",
+    "NO": "No",
+    "OK": "OK",
+    "CLEAR": "Clear",
+    "ADVANCED": "Advanced",
+    "HIDE": "Hide",
+    "START_TRADE" : "Start trading",
+    "TRYING_TRADE" : "Demo account",
+    "DOWNLOAD_MT5" : "Download MetaTrader 5",
+    "LEARN_MORE" : "Learn more",
+    "SEND_NOW" : "Send Now",
+    "REGISTER" : "Register"
+  },
+  "MESSAGE": {
+    "SURE_DELETE": "Are you sure you want to delete?",
+    "FILE_SIZE": "The file size cannot exceed {{param}} kb."
+  },
+  "FIELD": {
+    "NAME": "Name"
+  },
+  "PAGE" : {
+    "HOME" : {
+      "TITLE": "What do you get from investing with <span> GOC Prime </span>",
+      "SUB_TITLE1": "Register to access various products and services for trading in the financial markets.",
+      "SUB_TITLE1_MOBILE" : "Trade with Confidence Go Beyond your Goal",
+      "SUB_TITLE2": "Investing involves risk. Please study the information carefully before making any investment.",
+      "CONTENT_H2" : "<span>Elevate Your</span> Trading Experience",
+      "CONTENT_DESC" : "Step into the future of trading with our advanced, transparent platform trade confidently, stay in control!",
+      "CONTENT1_TITLE" : "Advanced Technology",
+      "CONTENT1_DESC" : "GOC Prime – stable, precise, <br> fast trading on MT5.",
+      "CONTENT2_TITLE" : "Advanced Analytical Tools",
+      "CONTENT2_DESC" : "Access indicators and EAs to <br> maximize your profit potential.ร",
+      "CONTENT3_TITLE" : "Fast order execution.",
+      "CONTENT3_DESC" : "No requotes, no interference.",
+      "CONTENT4_TITLE" : "High Security",
+      "CONTENT4_DESC" : "Your funds secured in segregated accounts",
+      "TRADE_INFO_TITLE" : "Trade assets from global <span>markets</span>",
+      "TRADE_INFO_DESC" : "Profit from the world's most popular global assets.",
+      "PLATFORM_TITLE1" : "Superior Trading <span>Performance</span>",
+      "PLATFORM_DESC1" : "Elevate your trading experience on every platform with maximum stability.",
+      "PLATFORM_TITLE2" : "Security and <span>Reliability</span>",
+      "PLATFORM_DESC2" : "Comprehensive protection with secure payments and negative balance protection.",
+      "PLATFORM_ITEM1" : "Demo Account",
+      "PLATFORM_ITEM2" : "Why trade with GOC Prime ?",
+      "PLATFORM_ITEM3" : "Security and Protection",
+      "NEWS_TITLE" : "Stay informed on news",
+      "NEWS_DESC" : "product and technology updates, events, partnership opportunities, and much more.",
+      "NEWS_MORE" : "Read more"
+    },
+    "METATRADER" : {
+      "HEADER" : "MetaTrader 5",
+      "DESC" : "Take your CFD trading experience to the next level.",
+      "H2" : "Trade on an <span>exceptional</span> platform available on iOS and Android.",
+      "DESC_H2" : "Experience fast, stable, and secure trading through our popular platform. Compatible with all devices, ensuring you never miss an opportunity in the financial markets!",
+      "HOWTOUSEMT5_TITLE" : "Download your MT5  Here!",
+      "CARD_TITLE_1" : "Smart Trade Execution",
+      "CARD_DESC_1" : "Execute trades at millisecond speed with precise automated order matching, minimizing slippage and eliminating requotes—ensuring efficient trading even during market volatility.",
+      "CARD_TITLE_2" : "Advanced Market Analysis",
+      "CARD_DESC_2" : "Access real-time market data with over 38 technical indicators, quantitative analysis tools, and trend analysis systems—enabling precise trading plans backed by insightful decision-making support.",
+      "CARD_TITLE_3" : "Multi-Asset Trading",
+      "CARD_DESC_3" : "Supports trading across multiple asset classes—including Forex, stocks, commodities, and indices—enabling traders to easily diversify portfolios and employ varied trading strategies within a single platform.",
+      "CARD_TITLE_4" : "Secure & Transparent Trading",
+      "CARD_DESC_4" : "Trade confidently on a platform with international security standards. All orders are executed transparently without broker intervention, with full transaction history available—ensuring market fairness.",
+      "TRADEMOBILE_TITLE" : "MetaTrader 5 Mobile Easy, secure trading anytime, anywhere.",
+      "TRADEMOBILE_TITLE_MOBILE" : "MetaTrader 5 Mobile Easy",
+      "TRADEMOBILE_DESC_1" : "MetaTrader 5 Mobile is designed to give you market access wherever you go. With its user-friendly interface, it offers comprehensive technical analysis tools, trading signals, and real-time price alerts to help you make precise trading decisions.",
+      "TRADEMOBILE_DESC_2" : "Through MetaTrader 5’s trading signals and copy trading functions, traders can follow and replicate successful strategies and trades. Orders are automatically copied to your account, enabling effortless trading.",
+      "TOOL_MT5_TITLE" : "Financial instruments you can trade on MT5.",
+      "TOOL_MT5_DESC" : "At GOC, you can trade CFDs on over 200 financial instruments, including Forex currency pairs, metals, cryptocurrencies, stocks, indices, and energies.",
+      "SYMBOL_TITLE_1" : "Forex",
+      "SYMBOL_DESC_1" : "Trade over 100 currency pairs via CFDs on MT5, including major pairs like EUR/USD, GBP/USD, USD/JPY, as well as exotic pairs offering additional investment opportunities.",
+      "SYMBOL_TITLE_2" : "Metals",
+      "SYMBOL_DESC_2" : "Access leading precious metals markets, including Gold (XAU/USD), Silver (XAG/USD), and other industrial metals.",
+      "SYMBOL_TITLE_3" : "Energy",
+      "SYMBOL_DESC_3" : "Trade the energy markets with CFDs on Crude Oil (UKOIL, USOIL) and Natural Gas (XNG/USD), enabling strategies based on global energy market movements.",
+      "SYMBOL_TITLE_4" : "Stocks",
+      "SYMBOL_DESC_4" : "Trade top global stocks like Apple, Tesla, and Amazon via CFDs without owning the underlying assets.",
+      "SYMBOL_TITLE_5" : "Indices",
+      "SYMBOL_DESC_5" : "Diversify your portfolio with CFDs on major global indices, including Dow Jones (DJI), NASDAQ, and NASDAQ, to capitalize on global market movements.",
+      "SYMBOL_TITLE_6" : "Cryptocurrency",
+      "SYMBOL_DESC_6" : "Trade popular cryptocurrencies on MetaTrader 5 via CFDs, including Bitcoin (BTC/USD), Ethereum (ETH/USD), Litecoin (LTC/USD), and more.",
+      "WHYGOC_TITLE" : "Why Trader Choose <span>GOC</span>",
+      "WHYGOC_DESC" : "Superior trading conditions, advanced security, transparency, and dedicated customer support—these are the reasons traders continue to choose GOC.",
+      "CARD_TITLE_GOC_1" : "Instant withdrawals",
+      "CARD_DESC_GOC_1" : "Take control of your funds with instant withdrawals—fast, secure, and hassle-free.",
+      "CARD_TITLE_GOC_2" : "Fast Order Execution",
+      "CARD_DESC_GOC_2" : "Stay ahead of trends with rapid execution. Execute your trades swiftly and stay ahead of the market on every move. Available exclusively at GOC.",
+      "CARD_TITLE_GOC_3" : "Stop Out Protection",
+      "CARD_DESC_GOC_3" : "Benefit from our unique Stop Out protection feature—delaying or even avoiding automatic order closure when trading with GOC."
+    },
+
+    "ABOUT" : {
+      "H1" : "Get to know the broker <br> GOC Prime",
+      "DESC" : "Trade with Confidence Go Beyond Your Goal Experience seamless and uninterrupted trading with security and transparency in every transaction. We are committed to creating l imitless trading opportunities on a professional and trustworthy platform, supporting every investment style with modern and intelligent technology. GOC Prime.",
+      "H2_S1_TITLE" : "About us",
+      "H2_S1_DESC" : "We are committed to becoming the largest trading platform in the world, driven by advanced technology that is stable and user-friendly, elevating the trading experience with superior market conditions. We aim to be an organization that grows and moves forward, expanding opportunities and pushing the limits of trading to ensure that traders, investors, and partners succeed together.",
+      "H2_S2_TITLE" : "Reliability is the Core",
+      "H2_S2_DESC" : "Reliability is at the heart of GOC Prime. We are committed to maintaining the highest standards of integrity, transparency, and responsibility. Our trading system is designed to be secure, reliable, and efficiently manage risks to protect our clients' funds. We strictly adhere to legal requirements and continuously develop with innovative solutions, backed by a team of experts and a strong track record. GOC Prime is a trusted partner in the trading world.",
+      "H2_S3_TITLE" : "GOC Prime helps traders surpass their limits with fair conditions, advanced technology, and high liquidity.",
+      "H2_S3_DESC" : "The GOC Prime Development Team",
+      "H2_S4_TITLE" : "Core values of GOC Prime.",
+      "H2_S4_DESC" : "GOC Prime is committed to a strong and sustainable business, focused on driving the success of investors while setting new standards in the financial industry!",
+      "CARD_TITLE_1" : "Limitless opportunities for global investment.",
+      "CARD_DESC_1" : "GOC Prime opens a borderless trading world with diverse assets and advanced platforms, empowering you to access markets and shape your future with confidence!",
+      "CARD_TITLE_2" : "Protect your investments, boost your confidence.",
+      "CARD_DESC_2" : "GOC Prime is committed to the highest security with international-standard protection measures, ensuring every trade is stable and worry-free.",
+      "CARD_TITLE_3" : "Innovation of the future.",
+      "CARD_DESC_3" : "GOC Prime develops cutting-edge trading solutions, providing an elevated investment experience while adapting to every market change!",
+      "CARD_TITLE_4" : "Transparency and fairness",
+      "CARD_DESC_4" : "With transparency and verifiability, we are a trusted broker that customers rely on.",
+      "CONTACT" : "ติดต่อเรา",
+      "CONTACT_INFO" : "ฝากข้อมูลการติดต่อของคุณไว้ เราจะติดต่อกลับคุณภายใน 1 วันทำการ",
+      "GET_IN_TOUCH": {
+        "TITLE": "เทรดได้อย่างลื่นไหล ทุกวินาทีมีค่า",
+        "SUB_TITLE": "นำเสนอแพลตฟอร์มที่เสถียร รวดเร็ว และมีสภาพคล่องสูง เพื่อให้ทุกคำสั่งซื้อขายเกิดขึ้นได้อย่างแม่นยำ ไม่มีสะดุด เปิดโอกาสให้เทรดเดอร์ก้าวสู่ความสำเร็จได้อย่างมั่นคง"
+      }
+    },
+    "TRADINGACCOUNT": {
+      "HEADER": {
+        "TITLE": "Trading Account",
+        "DESCRIPTION": "The GOC Prime trading account offers Free Swap on all account types, providing you with multiple pathways to the f inancial markets and exclusive benefits to enhance your trading experience."
+      },
+      "ACCOUNTS": {
+        "CENT": {
+          "DESCRIPTION": "Beginner-level investment account.",
+          "MIN_DEPOSIT": "Minimum Deposit",
+          "SPREAD": "Spread",
+          "LEVERAGE": "Leverage",
+          "ASSETS": "Symbol Available",
+          "SPREAD_VALUE": "Start 1.0*",
+          "LEVERAGE_VALUE": "1 : 1000",
+          "COMMISSION": "Commission",
+          "COMMISSION_VALUE": "No Commission",
+          "ASSETS_VALUE": "Forex,Metals,Energy",
+          "REGISTER": "Register"
+        },
+        "STANDARD": {
+          "TITLE": "Standard",
+          "DESCRIPTION": "Suitable for general traders.",
+          "MIN_DEPOSIT": "Minimum Deposit",
+          "SPREAD": "Spread",
+          "LEVERAGE": "Leverage",
+          "ASSETS": "Symbol Available",
+          "MIN_DEPOSIT_VALUE": "$10",
+          "SPREAD_VALUE": "Start 1.0*",
+          "COMMISSION": "Commission",
+          "COMMISSION_VALUE": "No Commission",
+          "LEVERAGE_VALUE": "1 : 1000",
+          "ASSETS_VALUE": "Forex,Metals,Energy,Cryptocurrencey"
+        },
+        "ECN": {
+          "TITLE": "ECN",
+          "DESCRIPTION": "Suitable for professional investors.",
+          "MIN_DEPOSIT": "Minimum Deposit",
+          "SPREAD": "Spread",
+          "LEVERAGE": "Leverage",
+          "ASSETS": "Symbol Available",
+          "MIN_DEPOSIT_VALUE": "$2000",
+          "SPREAD_VALUE": "Start 0.1*",
+          "COMMISSION": "Commission",
+          "COMMISSION_VALUE": "Start $5 / Lot",
+          "LEVERAGE_VALUE": "1 : 1000",
+          "ASSETS_VALUE": "Forex,Metals,Energy,Cryptocurrencey"
+        }
+      },
+      "ACCOUNT_INFO": {
+        "TABLE_HEADER": {
+          "ACCOUNT_TYPE": "",
+          "CENT": "Cent",
+          "STANDARD": "Standard"
+        },
+        "TABLE_ROWS": {
+          "MIN_DEPOSIT": "Minimum Deposit",
+          "SPREAD": "Spread",
+          "FEE": " Commission",
+          "MAX_LEVERAGE": "Leverage",
+          "ASSETS": " Symbol",
+          "MIN_LOT": "Minimum Lot",
+          "MAX_LOT": "Maximum Lot",
+          "MAX_OPEN_ORDERS": "Maximum Position",
+          "MARGIN_ALERT": "Margin Call",
+          "STOP_OUT": "Stop Out",
+          "SWAP_FREE": "Swap"
+        },
+        "TABLE_VALUE" : {
+          "2" : "No Commission",
+          "3" : " 1 : 1000",
+          "4" : "Forex,Metals,Energy,Cryptocurrencey",
+          "5" : "Forex,Metals,Energy",
+          "6" : "No Limit"
+        }
+      },
+      "FAQS": {
+        "TITLE": "FAQs",
+        "QUESTIONS": {
+          "NIGHT_TRADE_LOT_LIMIT": "Trading during economic news, is there a reduction in leverage?"
+        },
+        "ANSWERS": {
+          "NIGHT_TRADE_LOT_LIMIT": "There is no reduction in leverage during such periods."
+        }
+      }
+    },
+    "CALENDAR" : {
+      "TITLE": "GOC Economic Calendar",
+      "DESCRIPTION": "Stay updated on economic news impacting global financial markets with GOC’s real-time economic calendar. Get important updates on economic data releases, major financial events, and market trends that may affect your investments.",
+      "CURRENCY": {
+        "LABEL": "Symbol",
+        "ALL": "All"
+      },
+      "ASSET" : {
+        "TIME" : "Time",
+        "EVENT" : "Events"
+      },
+      "SECTION_3": {
+          "TITLE": "Plan your trading with the GOC Economic Calendar",
+          "DESCRIPTION": "GOC’s Economic Calendar provides crucial information on global economic events that may impact the Forex, stock, commodity, and cryptocurrency markets. With real-time updates and in-depth insights, you can analyze market trends, strategize, and adapt to financial situations.",
+          "SUBTITLE": "Stay updated with real-time financial market news.",
+          "FOOTER" : "Key News Types in the Forex Market:",
+          "NEWS_TYPE_1_CATEGORY": "Economic Indicators",
+          "NEWS_TYPE_1_ITEM_1": "GDP (Gross Domestic Product): Measures economic growth.",
+          "NEWS_TYPE_1_ITEM_2": "Employment Data (NFP, Unemployment Rate): Indicates the health of the labor market.",
+          "NEWS_TYPE_1_ITEM_3": "Interest Rate Decisions: Announced by central banks, affecting monetary policy.",
+          "NEWS_TYPE_1_ITEM_4": "Inflation (CPI, PPI): Reflects cost of living trends and interest rate adjustments.",
+
+          "NEWS_TYPE_2_CATEGORY": "Central Bank Announcements",
+          "NEWS_TYPE_2_ITEM_1": "Meeting reports from the Fed (USA), ECB (Europe), BOE (UK), BOJ (Japan).",
+          "NEWS_TYPE_2_ITEM_2": "Forecasts and interest rate trends affect the money market and currency values.",
+
+          "NEWS_TYPE_3_CATEGORY": "Fiscal & Monetary Policy",
+          "NEWS_TYPE_3_ITEM_1": "Leaders' statements on economic stimulus and tax cuts.",
+          "NEWS_TYPE_3_ITEM_2": "Budget plans and monetary policies that impact currency values and exchange rates.",
+
+          "NEWS_TYPE_4_CATEGORY": "Geopolitical & Crisis Events",
+          "NEWS_TYPE_4_ITEM_1": "Wars, trade conflicts, sanctions, or significant events affecting markets."
+      },
+
+      "WHY_GOC": {
+        "TITLE": "Why Trader Choose <span>GOC</span>",
+        "DESCRIPTION": "Superior trading conditions, advanced security, transparency, and dedicated customer support—these are the reasons traders continue to choose GOC.",
+        "CARDS": {
+          "WITHDRAW": {
+            "TITLE": "Instant withdrawals",
+            "DESCRIPTION": "Take control of your funds with instant withdrawals—fast, secure, and hassle-free."
+          },
+          "FAST_EXECUTION": {
+            "TITLE": "Fast Order Execution",
+            "DESCRIPTION": "Stay ahead of trends with rapid execution. Execute your trades swiftly and stay ahead of the market on every move. Available exclusively at GOC."
+          },
+          "STOP_OUT_PROTECTION": {
+            "TITLE": "Stop Out Protection",
+            "DESCRIPTION": "Benefit from our unique Stop Out protection feature—delaying or even avoiding automatic order closure when trading with GOC."
+          }
+        }
+      },
+      "FAQS": {
+        "TITLE": "FAQs",
+        "QUESTIONS": {
+          "BENEFITS": {
+            "TITLE": "Benefits of the Economic Calendar",
+            "DESCRIPTION_1": "The economic calendar focuses on key economic and political events both domestically and internationally, which could significantly impact the price movements of trading instruments.",
+            "DESCRIPTION_2": "This investment calendar will be automatically updated to ensure traders receive the latest news on upcoming events that may affect their trades."
+          },
+          "EXAMPLES": {
+            "TITLE": "Examples of Events Displayed in the Economic Calendar",
+            "DESCRIPTION_1": "The economic calendar focuses on key economic and political events both domestically and internationally, which could significantly impact the price movements of trading instruments.",
+            "DESCRIPTION_2": "This investment calendar will be automatically updated to ensure traders receive the latest news on upcoming events that may affect their trades."
+          },
+          "IMPORTANCE": {
+            "TITLE": "Importance of the Economic Calendar",
+            "DESCRIPTION_1": "The economic calendar focuses on key economic and political events both domestically and internationally, which could significantly impact the price movements of trading instruments.",
+            "DESCRIPTION_2": "This investment calendar will be automatically updated to ensure traders receive the latest news on upcoming events that may affect their trades."
+          },
+          "HOWTOUSE": {
+            "TITLE": "How to Use the Economic Calendar",
+            "DESCRIPTION_1": "The economic calendar focuses on key economic and political events both domestically and internationally, which could significantly impact the price movements of trading instruments.",
+            "DESCRIPTION_2": "This investment calendar will be automatically updated to ensure traders receive the latest news on upcoming events that may affect their trades."
+          },
+          "HOWTOREAD": {
+            "TITLE": "How to Read the Economic Calendar",
+            "DESCRIPTION_1": "The economic calendar focuses on key economic and political events both domestically and internationally, which could significantly impact the price movements of trading instruments.",
+            "DESCRIPTION_2": "This investment calendar will be automatically updated to ensure traders receive the latest news on upcoming events that may affect their trades."
+          },
+          "RELIABILITY": {
+            "TITLE": "Reliability of Information in the Economic Calendar",
+            "DESCRIPTION_1": "The economic calendar focuses on key economic and political events both domestically and internationally, which could significantly impact the price movements of trading instruments.",
+            "DESCRIPTION_2": "This investment calendar will be automatically updated to ensure traders receive the latest news on upcoming events that may affect their trades."
+          },
+          "CUSTOMCALENDAR": {
+            "TITLE": "Can the Economic Calendar Be Customized to Fit Trading Needs?",
+            "DESCRIPTION_1": "The economic calendar focuses on key economic and political events both domestically and internationally, which could significantly impact the price movements of trading instruments.",
+            "DESCRIPTION_2": "This investment calendar will be automatically updated to ensure traders receive the latest news on upcoming events that may affect their trades."
+          }
+        }
+      }
+    },
+    "PROMOTIONS" : {
+      "TITLE" : "GOC Prime Promotions"
+    },
+    "PARTNERS" : {
+      "SECTION1": {
+        "HEADER": "GOC Prime Partner Program",
+        "DESCRIPTION": "Earn steady income by referring clients to trade with a global market leader.",
+        "PARTNERS_LABEL": "Number of our partners.",
+        "TOTAL_MONEY_LABEL": " Total  earned  our partners.",
+        "MONTHLY_REWARD_LABEL": "The monthly rewards earned by top partners.",
+        "START_BUTTON": "Start Trading"
+      },
+      "SECTION2": {
+        "WHAT_YOU_WILL_RECEIVE": "What you will get",
+        "IB_PROGRAM": "Introducing Broker (IB) Program.",
+        "IB_DESCRIPTION": "Earn steady income from <br> your customer network.",
+        "FOOTER": "Partner with a global broker and earn continuous rewards <br> from your customer network.",
+        "AFFILIATE_PROGRAM": "Affiliate Program.",
+        "AFFILIATE_DESCRIPTION": "Receive competitive rewards <br> and growth opportunities.",
+        "AFFILIATE_FOOTER": "Expand your business opportunities with a flexible <br> compensation plan, along with tools to support your growth.",
+        "MORE" : "More"
+      },
+      "SECTION3": {
+        "REASONS_TO_PARTNER": "Reasons to become <span> Partner </span> of GOC Prime.",
+        "TRUSTWORTHY_PARTNER": "We are the partner you can trust to grow together.",
+        "SUPPORT": "We support our partners with transparency, stability, and expert guidance to expand networks.",
+        "TOOLS_AND_STRATEGIES": "Provide tools and strategies to <br> enhance your success.",
+        "RESULTS_AND_STRATEGY": "We provide the necessary tools and <br> support  materials to help you plan <br> and strengthen your network.",
+        "FAIR_REWARDS": "Offer fair and continuous <br> rewards.",
+        "FAIR_REWARDS_DESC": "We support our partners with valuable and transparent rewards. You can be confident that working.",
+        "ACCURATE_ANALYSIS": "Analyze and present statistical data to help you plan accurately.",
+        "ACCURATE_ANALYSIS_DESC": "Track your business results with an accurate analytics system, <br> adjust strategies effectively.",
+        "FLEXIBLE_MANAGEMENT": "Manage your business flexibly <br> and conveniently, <br> anytime and anywhere.",
+        "FLEXIBLE_MANAGEMENT_DESC": "Easily monitor reports, manage returns, <br> and maintain  customer relationships <br>through a modern platform.",
+        "FAST_PAYMENT": "Receive rewards quickly <br> and securely. <br> <br>",
+        "FAST_PAYMENT_DESC": "A fast and diverse payment system supporting secure transaction channels,"
+      },
+      "SECTION4": {
+        "REASONS_TO_TRADE_WITH_US": "Reasons why <br>professional traders <br>choose our services...",
+        "STABLE_PLATFORM": "A stable, fast, and user-friendly platform that supports both <br> desktop and mobile, allowing you to access the market anytime, anywhere.",
+        "HIGH_LEVERAGE": "High leverage and flexible trading conditions allow you to manage <br> risks and maximize profit opportunities effectively.",
+        "FAST_DEPOSIT_WITHDRAW": "Fast deposits and withdrawals, supporting secure and instant <br> transactions, giving you access to your funds anytime.",
+        "VARIOUS_ASSETS": "A wide range of trading assets, allowing you to trade Forex, indices, <br>stocks, commodities, and cryptocurrencies on a single platform.",
+        "LOW_SPREAD": "Low spreads and cost-effective trading help you maximize profits <br> without worrying about hidden fees.",
+        "SUPPORT_CENTER": "A help center with market analysis, news, and courses for traders <br> of all levels."
+      },
+      "SECTION5": {
+        "TOOLS_AND_SERVICES": "Tools and services you can offer to your clients.",
+        "GOC_APP": "Application GOC Prime Trader Mobile",
+        "PLATFORM": "World-class trading platform.",
+        "PLATFORM_DESC": "Supports both Desktop <br>and Mobile usage.",
+        "PERSONAL_AREA": "Personalized space for traders.",
+        "PERSONAL_AREA_DESC": "Easily manage your account, <br> deposits/withdrawals, and <br> trading data.",
+        "ADDITIONAL_SERVICES": "Additional services for <br>efficient trading.",
+        "ADDITIONAL_SERVICES_DESC": "Real-time trading signals, <br> analysis, and market news."
+      },
+      "SECTION6": {
+        "HIGHEST_EARNINGS": "Highest returns earned <span>by partners</span>",
+        "LAST_MONTH": "Last month",
+        "PARTNER_1": "Leading partners in Asia.",
+        "PARTNER_2": "Partner from Middle East",
+        "PARTNER_3": "Partner From Malaysia",
+        "PARTNER_4": "Partner from Vietnam",
+        "PARTNER_5": "Partner from China",
+        "CUSTOMER_SERVICE": "If you have any questions, please contact our customer <br>service team.",
+        "CONTACT_US": "Live Chat"
+      },
+      "SECTION7" : "Join GOC Prime as a partner today."
+    },
+    "POINT_MALL" : {
+      "H1" : "GOC Prime Point Mall",
+      "SUBTITLE" : "GOC Prime Point Mall is a reward program that allows you to earn points every time you trade. You can redeem these points for exclusive gifts from us.",
+      "H2" : "Turn Every Trade Into Rewards with GOC Prime",
+      "TITLE" : "very time you trade, or when your clients trade (if you’re a partner), you’ll earn reward points. Collect points and redeem them for exclusive gifts from us. The more you trade, the more you earn!"
+    },
+    "GET_IN_TOUCH": {
+      "TITLE": "Get more with GOC Prime.",
+      "SUB_TITLE": "Elevate your investment with a transparent, stable platform and superior trading Conditions. choose GOC Prime for a secure and high-performance Trading experience."
+    }
+  }
+}

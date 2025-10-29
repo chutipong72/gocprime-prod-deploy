@@ -1,0 +1,428 @@
+{
+  "LOGIN": "登录",
+  "LOGOUT": "注销",
+  "REGISTER": "注册",
+  "ACCOUNT": "帐户",
+  "SUBMIT_PROPERTY":"提交属性",
+  "MENU": "菜单",
+  "MY_PROPERTIES": "我的属性",
+  "FAVORITES": "收藏夹",
+  "COMPARE": "比较",
+  "EDIT_PROFILE": "编辑个人资料",
+  "LOCK_SCREEN": "锁定屏幕",
+  "HELP": "帮助",
+  "NAV": {
+    "HOME": "家",
+    "PLATFORM" : "平台",
+    "TRADING": "交易",
+    "CALENDAR": "日历",
+    "ANNOUNCE": "公告",
+    "SUB_ANNOUNCEMENT": "在一个地方获取公司所有最新消息和更新",
+    "PROMOTIONS": "促销",
+    "ABOUT_INFO": "公司",
+    "PARTNERS": "合作伙伴",
+    "ACCOUNT": "帐户",
+    "POINT_MALL": "点商城",
+
+    "PROPERTIES": "属性",
+    "PAGES": "页数",
+    "AGENTS": "代理人",
+    "AGENT": "代理人",
+    "FAQS": "常见问题解答：“常见问题解答",
+    "PRICING": "定价",
+    "TERMS_CONDITIONS": "条款和条件",
+    "LANDING": "着陆",
+    "404_PAGE": "404页,",
+    "OTHERS": "其他",
+    "EXTERNAL_LINK": "外部链接",
+    "MENU_ITEM": "菜单项",
+    "CONTACT": "联系方式",
+    "ABOUT_US": "关于我们",
+    "ADMIN": "管理员",
+    "POLICY" : "隐私政策",
+    "RISK" : "Risk Warning",
+    "ORDER_EXCUTION" : "Order Execution"
+  },
+  "BTN": {
+    "ADD": "添加",
+    "SAVE": "保存",
+    "SUBMIT": "提交",
+    "CANCEL": "取消",
+    "UPLOAD": "上传",
+    "REMOVE": "删除",
+    "YES": "是",
+    "NO": "不",
+    "OK": "好的",
+    "CLEAR": "清除",
+    "ADVANCED": "高级",
+    "HIDE": "隐藏",
+    "START_TRADE" : "开始交易",
+    "TRYING_TRADE" : "模拟账户",
+    "DOWNLOAD_MT5" : "下载 MetaTrader 5",
+    "LEARN_MORE" : "了解更多",
+    "SEND_NOW" : "立即发送,",
+    "REGISTER" : "注册"
+  },
+  "MESSAGE": {
+    "SURE_DELETE": "您确定要删除吗？",
+    "FILE_SIZE": "文件大小不能超过 {{param}} kb。"
+  },
+  "FIELD": {
+    "NAME": "姓名"
+  },
+  "PAGE" : {
+    "HOME" : {
+      "TITLE": "GOC Prime",
+      "SUB_TITLE1": "充满<span>信心</span>进行交易，超越您的<span>目标</span>",
+      "SUB_TITLE1_MOBILE" : "充满信心地进行交易，超越您的目标",
+      "SUB_TITLE2": "利用先进技术和高流动性自信地进行交易。",
+      "CONTENT_H2" : "<span>提升您的</span>交易体验",
+      "CONTENT_DESC" : "通过我们先进、透明的交易平台自信地步入交易的未来，保持掌控！",
+      "CONTENT1_TITLE" : "先进技术",
+      "CONTENT1_DESC" : "GOC Prime – 在 MT5 上稳定、精确、<br>快速交易。",
+      "CONTENT2_TITLE" : "高级分析工具",
+      "CONTENT2_DESC" : "访问指标和 EA 来<br>最大化您的利润潜力。",
+      "CONTENT3_TITLE" : "快速订单执行。",
+      "CONTENT3_DESC" : "没有重新报价，没有干扰。",
+      "CONTENT4_TITLE" : "高安全性",
+      "CONTENT4_DESC" : "您的资金存放在独立账户中",
+      "TRADE_INFO_TITLE" : "从全球<span>市场</span>交易资产",
+      "TRADE_INFO_DESC" : "从世界上最受欢迎的全球资产中获利。",
+      "PLATFORM_TITLE1" : "卓越的交易性能",
+      "PLATFORM_DESC1" : "以最大的稳定性提升您在每个平台上的交易体验。",
+      "PLATFORM_TITLE2" : "安全性和可靠性",
+      "PLATFORM_DESC2" : "通过安全支付和负余额保护提供全面的保护。",
+      "PLATFORM_ITEM1" : "模拟账户",
+      "PLATFORM_ITEM2" : "为什么要使用 GOC Prime 进行交易？",
+      "PLATFORM_ITEM3" : "安全和保护",
+      "NEWS_TITLE" : "随时了解新闻",
+      "NEWS_DESC" : "产品和技术更新、活动、合作机会等等。",
+      "NEWS_MORE" : "了解更多"
+    },
+    "METATRADER" : {
+      "HEADER" : "MetaTrader 5",
+      "DESC" : "将您的差价合约交易体验提升到一个新的水平。",
+      "H2" : "在 iOS 和 Android 上可用的<span>特殊</span>平台上进行交易。",
+      "DESC_H2" : "通过我们受欢迎的平台体验快速、稳定、安全的交易。兼容所有设备，确保您不错过金融市场的机会！",
+      "HOWTOUSEMT5_TITLE" : "在这里下载您的 MT5！",
+      "CARD_TITLE_1" : "智能交易执行",
+      "CARD_DESC_1" : "通过精确的自动订单匹配以毫秒速度执行交易，最大限度地减少滑点并消除重新报价 - 即使在市场波动期间也能确保高效交易。",
+      "CARD_TITLE_2" : "高级市场分析",
+      "CARD_DESC_2" : "通过超过 38 种技术指标、定量分析工具和趋势分析系统访问实时市场数据——在富有洞察力的决策支持下实现精确的交易计划。",
+      "CARD_TITLE_3" : "多资产交易",
+      "CARD_DESC_3" : "支持跨多种资产类别的交易，包括外汇、股票、大宗商品和指数，使交易者能够轻松实现投资组合多元化，并在单一平台内采用不同的交易策略。",
+      "CARD_TITLE_4" : "安全且透明的交易",
+      "CARD_DESC_4" : "在具有国际安全标准的平台上放心交易。所有订单均透明执行，无需经纪商干预，并提供完整的交易历史记录 — 确保市场公平。",
+      "TRADEMOBILE_TITLE" : "MetaTrader 5 Mobile 随时随地轻松、安全地进行交易。",
+      "TRADEMOBILE_TITLE_MOBILE" : "MetaTrader 5 Mobile Easy",
+      "TRADEMOBILE_DESC_1" : "MetaTrader 5 Mobile 旨在让您随时随地进入市场。凭借其用户友好的界面，它提供全面的技术分析工具、交易信号和实时价格警报，帮助您做出精确的交易决策。",
+      "TRADEMOBILE_DESC_2" : "通过 MetaTrader 5 的交易信号和复制交易功能，交易者可以跟踪并复制成功的策略和交易。订单会自动复制到您的账户，从而实现轻松交易。",
+      "TOOL_MT5_TITLE" : "您可以在 MT5 上交易的金融工具。",
+      "TOOL_MT5_DESC" : "在 GOC，您可以交易 200 多种金融工具的差价合约，包括外汇货币对、金属、加密货币、股票、指数和能源。",
+      "SYMBOL_TITLE_1" : "外汇",
+      "SYMBOL_DESC_1" : "在 MT5 上通过差价合约交易 100 多种货币对，包括欧元/美元、英镑/美元、美元/日元等主要货币对，以及提供额外投资机会的外来货币对。",
+      "SYMBOL_TITLE_2" : "金属",
+      "SYMBOL_DESC_2" : "进入领先的贵金属市场，包括黄金 (XAU/USD)、白银 (XAG/USD) 和其他工业金属。",
+      "SYMBOL_TITLE_3" : "能源",
+      "SYMBOL_DESC_3" : "通过原油（UKOIL、USOIL）和天然气（XNG/USD）差价合约在能源市场上进行交易，从而实现基于全球能源市场走势的策略。",
+      "SYMBOL_TITLE_4" : "股票",
+      "SYMBOL_DESC_4" : "通过差价合约交易苹果、特斯拉和亚马逊等全球顶级股票，而无需拥有标的资产。",
+      "SYMBOL_TITLE_5" : "索引",
+      "SYMBOL_DESC_5" : "通过主要全球指数的差价合约实现投资组合多元化，包括道琼斯 (DJI)、纳斯达克和纳斯达克，以利用全球市场走势。",
+      "SYMBOL_TITLE_6" : "加密货币”，",
+      "SYMBOL_DESC_6" : "通过差价合约在 MetaTrader 5 上交易流行的加密货币，包括比特币 (BTC/USD)、以太坊 (ETH/USD)、莱特币 (LTC/USD) 等。",
+      "WHYGOC_TITLE" : "交易者为何选择 <span>GOC</span>",
+      "WHYGOC_DESC" : "优越的交易条件、先进的安全性、透明度和专门的客户支持——这些是交易者继续选择 GOC 的原因。",
+      "CARD_TITLE_GOC_1" : "即时提款",
+      "CARD_DESC_GOC_1" : "通过即时提款控制您的资金——快速、安全、无忧。",
+      "CARD_TITLE_GOC_2" : "快速订单执行",
+      "CARD_DESC_GOC_2" : "通过快速执行保持领先趋势。快速执行您的交易并在每一步行动中保持领先市场。GOC 独家提供。",
+      "CARD_TITLE_GOC_3" : "强制平仓保护",
+      "CARD_DESC_GOC_3" : "受益于我们独特的止损保护功能——在与 GOC 交易时延迟甚至避免自动订单关闭。"
+    },
+
+    "ABOUT" : {
+      "H1" : "了解经纪商 <br> GOC Prime",
+      "DESC" : "DESC ：“充满信心地交易，超越您的目标，在每笔交易中体验无缝、不间断的交易，安全、透明。我们致力于在专业且值得信赖的平台上创造无限的交易机会，以现代智能技术支持每种投资风格。G",
+      "H2_S1_TITLE" : "关于我们",
+      "H2_S1_DESC" : "我们致力于成为全球最大的交易平台，以稳定且用户友好的先进技术为驱动，以优越的市场条件提升交易体验。我们的目标是成为一个成长和前进的组织，扩大机会并突破交易极限，以确保交易者、投资者和合作伙伴共同成功。",
+      "H2_S2_TITLE" : "可靠性是核心",
+      "H2_S2_DESC" : "可靠性是 GOC Prime 的核心。我们致力于维持最高的诚信、透明度和责任标准。我们的交易系统旨在安全、可靠并有效地管理风险，以保护客户的资金。我们严格遵守法律要求，不断开发创新的解决方案，并得到专家团队和良好记录的支持。GOC Prime 是交易界值得信赖的合作伙伴。",
+      "H2_S3_TITLE" : "GOC Prime 以公平的条件、先进的技术和高流动性帮助交易者超越极限。",
+      "H2_S3_DESC" : "GOC Prime 开发团队",
+      "H2_S4_TITLE" : "GOC Prime 的核心价值。",
+      "H2_S4_DESC" : "GOC Prime 致力于发展强大且可持续的业务，专注于推动投资者的成功，同时在金融行业树立新标准！",
+      "CARD_TITLE_1" : "全球投资的无限机会。",
+      "CARD_DESC_1" : "GOC Prime 以多元化的资产和先进的平台开启了一个无边界的交易世界，让您充满信心地进入市场并塑造您的未来！",
+      "CARD_TITLE_2" : "保护您的投资，增强您的信心。",
+      "CARD_DESC_2" : "GOC Prime 致力于最高安全性，采用国际标准的保护措施，确保每一笔交易稳定无忧。",
+      "CARD_TITLE_3" : "未来的创新。",
+      "CARD_DESC_3" : "GOC Prime 开发尖端交易解决方案，提供提升的投资体验，同时适应每一个市场变化！",
+      "CARD_TITLE_4" : "透明度和公平性",
+      "CARD_DESC_4" : "凭借透明度和可验证性，我们是客户依赖的值得信赖的经纪人。",
+      "CONTACT" : "联系我们",
+      "CONTACT_INFO" :"留下您的联系信息。我们将在 1 个工作日内与您联系。",
+      "GET_IN_TOUCH": {
+        "TITLE": "交易顺利每一秒都弥足珍贵 ",
+        "SUB_TITLE": "提供稳定、快速、高流动性的平台。让每一个交易订单都能精准、不间断地发生，让交易者有机会稳步走向成功。"
+      }
+    },
+    "TRADINGACCOUNT": {
+      "HEADER": {
+        "TITLE": "交易账户",
+        "DESCRIPTION": "GOC Prime 交易账户为所有账户类型提供免费隔夜利息，为您提供进入金融市场的多种途径以及增强您交易体验的独家优惠。"
+      },
+      "ACCOUNTS": {
+        "CENT": {
+          "DESCRIPTION": "初级投资账户。",
+          "MIN_DEPOSIT": "最低存款",
+          "SPREAD": "传播",
+          "LEVERAGE": "杠杆",
+          "ASSETS": "可用符号",
+          "SPREAD_VALUE": "开始 1.0*",
+          "LEVERAGE_VALUE": "1 : 1000",
+          "COMMISSION": "委员会",
+          "COMMISSION_VALUE": "无佣金",
+          "ASSETS_VALUE": "外汇、金属、能源",
+          "REGISTER": "注册"
+        },
+        "STANDARD": {
+          "TITLE": "标准",
+          "DESCRIPTION": "描述：“适合一般贸易商。",
+          "MIN_DEPOSIT": "最低存款",
+          "SPREAD": "传播",
+          "LEVERAGE": "杠杆",
+          "ASSETS": "可用符号",
+          "MIN_DEPOSIT_VALUE": "10 美元",
+          "SPREAD_VALUE": "开始 1.0*",
+          "COMMISSION": "委员会",
+          "COMMISSION_VALUE": "无佣金",
+          "LEVERAGE_VALUE": "1 : 1000",
+          "ASSETS_VALUE": "外汇、金属、能源、加密货币"
+        },
+        "ECN": {
+          "TITLE": "ECN",
+          "DESCRIPTION": "描述：“适合专业投资者。",
+          "MIN_DEPOSIT": "最低存款",
+          "SPREAD": "传播",
+          "LEVERAGE": "杠杆",
+          "ASSETS": "可用符号",
+          "MIN_DEPOSIT_VALUE": "2000 美元”，",
+          "SPREAD_VALUE": "开始 0.1*",
+          "COMMISSION": "委员会",
+          "COMMISSION_VALUE": "起价 5 美元/手",
+          "LEVERAGE_VALUE": "1 : 1：1000",
+          "ASSETS_VALUE": "外汇、金属、能源、加密货币"
+        }
+      },
+      "ACCOUNT_INFO": {
+        "TABLE_HEADER": {
+          "ACCOUNT_TYPE": "",
+          "CENT": "分",
+          "STANDARD": "标准"
+        },
+        "TABLE_ROWS": {
+          "MIN_DEPOSIT": "最低存款",
+          "SPREAD": "传播",
+          "FEE": " 佣金",
+          "MAX_LEVERAGE": "杠杆",
+          "ASSETS": " 符号",
+          "MIN_LOT": "最小手数",
+          "MAX_LOT": "最大手数",
+          "MAX_OPEN_ORDERS": "最大持仓",
+          "MARGIN_ALERT": "追加保证金",
+          "STOP_OUT": "止损",
+          "SWAP_FREE": "交换”"
+        },
+        "TABLE_VALUE" : {
+          "2" : "无佣金",
+          "3" : " 1 : 1000",
+          "4" : "外汇、金属、能源、加密货币",
+          "5" : "外汇、金属、能源",
+          "6" : "无限制"
+        }
+      },
+      "FAQS": {
+        "TITLE": "常见问题解答",
+        "QUESTIONS": {
+          "NIGHT_TRADE_LOT_LIMIT": "在经济新闻期间进行交易，杠杆是否会减少？"
+        },
+        "ANSWERS": {
+          "NIGHT_TRADE_LOT_LIMIT": "在此期间杠杆不会减少。”."
+        }
+      }
+    },
+    "CALENDAR" : {
+      "TITLE": "GOC 经济日历",
+      "DESCRIPTION": "通过 GOC 的实时经济日历，随时了解影响全球金融市场的经济新闻。获取有关经济数据发布、重大金融事件以及可能影响您投资的市场趋势的重要更新。",
+      "CURRENCY": {
+        "LABEL": "符号",
+        "ALL": "全部"
+      },
+      "ASSET" : {
+        "TIME" : "时间",
+        "EVENT" : "事件"
+      },
+      "SECTION_3": {
+          "TITLE": "利用 GOC 经济日历计划您的交易",
+          "DESCRIPTION": "GOC 经济日历提供了可能影响外汇、股票、大宗商品和加密货币市场的全球经济事件的重要信息。通过实时更新和深入见解，您可以分析市场趋势、制定策略并适应财务状况。",
+          "SUBTITLE": "及时了解实时金融市场新闻。.",
+          "FOOTER" : "外汇市场的主要新闻类型：",
+          "NEWS_TYPE_1_CATEGORY": "经济指标",
+          "NEWS_TYPE_1_ITEM_1": "GDP（国内生产总值）：衡量经济增长。",
+          "NEWS_TYPE_1_ITEM_2": "就业数据（NFP、失业率）：表明劳动力市场的健康状况。",
+          "NEWS_TYPE_1_ITEM_3": "利率决策：由央行宣布，影响货币政策",
+          "NEWS_TYPE_1_ITEM_4": "通货膨胀（CPI、PPI）：反映生活成本趋势和利率调整。",
+
+          "NEWS_TYPE_2_CATEGORY": "央行公告",
+          "NEWS_TYPE_2_ITEM_1": "美联储（美国）、欧洲央行（欧洲）、英国央行（英国）、日本央行（日本）的会议报告。",
+          "NEWS_TYPE_2_ITEM_2": "预测和利率趋势影响货币市场和货币价值。",
+
+          "NEWS_TYPE_3_CATEGORY": "财政和货币政策",
+          "NEWS_TYPE_3_ITEM_1": "领导人关于经济刺激和减税的声明。",
+          "NEWS_TYPE_3_ITEM_2": "影响货币价值和汇率的预算计划和货币政策",
+
+          "NEWS_TYPE_4_CATEGORY": "地缘政治与危机事件",
+          "NEWS_TYPE_4_ITEM_1": "战争、贸易冲突、制裁或影响市场的重大事件"
+      },
+
+      "WHY_GOC": {
+        "TITLE": "为什么交易者选择<span>GOC</span>",
+        "DESCRIPTION": "优越的交易条件、先进的安全性、透明度和专门的客户支持——这些是交易者继续选择 GOC 的原因。",
+        "CARDS": {
+          "WITHDRAW": {
+            "TITLE": "即时提款",
+            "DESCRIPTION": "通过即时提款控制您的资金——快速、安全、无忧。"
+          },
+          "FAST_EXECUTION": {
+            "TITLE": "快速订单执行",
+            "DESCRIPTION": "通过快速执行保持领先趋势。快速执行您的交易并在每一步行动中保持领先于市场。GOC 独家提供。"
+          },
+          "STOP_OUT_PROTECTION": {
+            "TITLE": "强制平仓保护",
+            "DESCRIPTION": "受益于我们独特的止损保护功能——在与 GOC 交易时延迟甚至避免自动订单关闭。"
+          }
+        }
+      },
+      "FAQS": {
+        "TITLE": "常见问题解答",
+        "QUESTIONS": {
+          "BENEFITS": {
+            "TITLE": "经济日历的好处",
+            "DESCRIPTION_1": "经济日历重点关注国内和国际的关键经济和政治事件，这些事件可能会对交易工具的价格走势产生重大影响。",
+            "DESCRIPTION_2": "此投资日历将自动更新，以确保交易者收到有关可能影响其交易的即将发生的事件的最新消息。"
+          },
+          "EXAMPLES": {
+            "TITLE": "经济日历中显示的事件示例",
+            "DESCRIPTION_1": "经济日历重点关注国内和国际的关键经济和政治事件，这些事件可能会对交易工具的价格走势产生重大影响。",
+            "DESCRIPTION_2": "此投资日历将自动更新，以确保交易者收到有关可能影响其交易的即将发生的事件的最新消息。"
+          },
+          "IMPORTANCE": {
+            "TITLE": "经济日历的重要性",
+            "DESCRIPTION_1": "经济日历重点关注国内和国际的关键经济和政治事件，这些事件可能会对交易工具的价格走势产生重大影响。",
+            "DESCRIPTION_2": "此投资日历将自动更新，以确保交易者收到有关可能影响其交易的即将发生的事件的最新消息。."
+          },
+          "HOWTOUSE": {
+            "TITLE": "如何使用经济日历",
+            "DESCRIPTION_1": "经济日历重点关注国内和国际的关键经济和政治事件，这些事件可能会对交易工具的价格走势产生重大影响。",
+            "DESCRIPTION_2": "此投资日历将自动更新，以确保交易者收到有关可能影响其交易的即将发生的事件的最新消息。"
+          },
+          "HOWTOREAD": {
+            "TITLE": "如何阅读经济日历",
+            "DESCRIPTION_1": "经济日历重点关注国内和国际的关键经济和政治事件，这些事件可能会对交易工具的价格走势产生重大影响。",
+            "DESCRIPTION_2": "此投资日历将自动更新，以确保交易者收到有关可能影响其交易的即将发生的事件的最新消息。"
+          },
+          "RELIABILITY": {
+            "TITLE": "经济日历中信息的可靠性",
+            "DESCRIPTION_1": "经济日历重点关注国内和国际的关键经济和政治事件，这些事件可能会对交易工具的价格走势产生重大影响。",
+            "DESCRIPTION_2": "此投资日历将自动更新，以确保交易者收到有关可能影响其交易的即将发生的事件的最新消息。"
+          },
+          "CUSTOMCALENDAR": {
+            "TITLE": "经济日历可以定制以满足交易需求吗？",
+            "DESCRIPTION_1": "经济日历重点关注国内和国际的关键经济和政治事件，这些事件可能会对交易工具的价格走势产生重大影响。",
+            "DESCRIPTION_2": "此投资日历将自动更新，以确保交易者收到有关可能影响其交易的即将发生的事件的最新消息。"
+          }
+        }
+      }
+    },
+    "PROMOTIONS" : {
+      "TITLE" : "GOC Prime 促销”"
+    },
+    "PARTNERS" : {
+      "SECTION1": {
+        "HEADER": "GOC Prime 合作伙伴计划”，",
+        "DESCRIPTION": "通过推荐客户与全球市场领导者进行交易，赚取稳定的收入。",
+        "PARTNERS_LABEL": "我们的合作伙伴数量。",
+        "TOTAL_MONEY_LABEL": "我们为合作伙伴赢得的总收入。",
+        "MONTHLY_REWARD_LABEL": "顶级合作伙伴每月获得的奖励。",
+        "START_BUTTON": "开始交易"
+      },
+      "SECTION2": {
+        "WHAT_YOU_WILL_RECEIVE": "你会得到什么",
+        "IB_PROGRAM": "介绍经纪商 (IB) 计划。",
+        "IB_DESCRIPTION": "从<br>您的客户网络中赚取稳定的收入。",
+        "FOOTER": "与全球经纪商合作，从您的客户网络中获得持续的奖励<br>。",
+        "AFFILIATE_PROGRAM": "联盟计划。",
+        "AFFILIATE_DESCRIPTION": "获得有竞争力的奖励<br>和成长机会。",
+        "AFFILIATE_FOOTER": "通过灵活的<br>薪酬计划以及支持您发展的工具来拓展您的商机。",
+        "MORE" : "更多"
+      },
+      "SECTION3": {
+        "REASONS_TO_PARTNER": "成为 GOC Prime <span> 合作伙伴 </span> 的原因。.",
+        "TRUSTWORTHY_PARTNER": "我们是您可以信赖的共同成长的合作伙伴。",
+        "SUPPORT": "我们以透明度、稳定性和专家指导来支持我们的合作伙伴扩展网络。",
+        "TOOLS_AND_STRATEGIES": "提供工具和策略来<br>增强您的成功。",
+        "RESULTS_AND_STRATEGY": "我们提供必要的工具和<br>支持材料来帮助您规划<br>并加强您的网络。",
+        "FAIR_REWARDS": "提供公平且持续的<br>奖励。",
+        "FAIR_REWARDS_DESC": "我们通过有价值且透明的奖励来支持我们的合作伙伴。您可以放心地工作。",
+        "ACCURATE_ANALYSIS": "分析并呈现统计数据以帮助您准确计划。",
+        "ACCURATE_ANALYSIS_DESC": "通过准确的分析系统跟踪您的业务成果，<br>有效地调整策略。",
+        "FLEXIBLE_MANAGEMENT": "<br>随时随地灵活方便地管理您的业务。",
+        "FLEXIBLE_MANAGEMENT_DESC": "通过现代平台轻松监控报告、管理退货<br>并维护客户关系。",
+        "FAST_PAYMENT": "快速且安全地接收奖励。<br> <br>",
+        "FAST_PAYMENT_DESC": "支持安全交易通道的快速且多样化的支付系统"
+      },
+      "SECTION4": {
+        "REASONS_TO_TRADE_WITH_US": "<br>专业交易者<br>选择我们服务的原因...",
+        "STABLE_PLATFORM": "稳定、快速、用户友好的平台，同时支持<br>桌面和移动设备，让您随时随地进入市场。",
+        "HIGH_LEVERAGE": "高杠杆率和灵活的交易条件使您能够有效管理<br>风险并最大化利润机会。",
+        "FAST_DEPOSIT_WITHDRAW": "快速存取款，支持安全即时<br>交易，让您随时存取资金。",
+        "VARIOUS_ASSETS": "广泛的交易资产，允许您在单一平台上交易外汇、指数、股票、商品和加密货币。",
+        "LOW_SPREAD": "低点差和经济高效的交易可帮助您实现利润最大化<br>，而无需担心隐藏费用。",
+        "SUPPORT_CENTER": "帮助中心，为各个级别的交易者<br>提供市场分析、新闻和课程。"
+      },
+      "SECTION5": {
+        "TOOLS_AND_SERVICES": "您可以向客户提供的工具和服务。",
+        "GOC_APP": "应用程序 GOC Prime Trader Mobile",
+        "PLATFORM": "世界一流的交易平台。",
+        "PLATFORM_DESC": "支持桌面版和移动版使用。",
+        "PERSONAL_AREA": "为交易者提供的个性化空间。",
+        "PERSONAL_AREA_DESC": "轻松管理您的帐户、<br>存款/取款以及<br>交易数据。",
+        "ADDITIONAL_SERVICES": "<br>高效交易的附加服务。",
+        "ADDITIONAL_SERVICES_DESC": "实时交易信号、<br>分析和市场新闻。"
+      },
+      "SECTION6": {
+        "HIGHEST_EARNINGS": "<span>合作伙伴获得的最高回报</span>",
+        "LAST_MONTH": "个月",
+        "PARTNER_1": "亚洲领先的合作伙伴。",
+        "PARTNER_2": "来自中东的合作伙伴”",
+        "PARTNER_3": "来自马来西亚的合作伙伴",
+        "PARTNER_4": "来自越南的合作伙伴",
+        "PARTNER_5": "来自中国的合作伙伴”，",
+        "CUSTOMER_SERVICE": "如果您有任何疑问，请联系我们的客户<br>服务团队。",
+        "CONTACT_US": "实时聊天"
+      },
+      "SECTION7" : "立即作为合作伙伴加入 GOC Prime。"
+    },
+    "POINT_MALL" : {
+      "H1" : "GOC Prime Point Mall",
+      "SUBTITLE" : "GOC Prime Point Mall 是一个奖励计划，让您在每次交易时都能赚取积分。您可以使用这些积分兑换我们的专属礼品。",
+      "H2" : " 每一次交易，尽享奖励 — GOC Prime",
+      "TITLE" : "每次您交易，或您的客户交易（如果您是我们的合作伙伴），都能赚取积分。积累积分即可兑换专属好礼。交易越多，赚得越多！"
+    },
+    "GET_IN_TOUCH": {
+      "TITLE": "通过 GOC Prime 获得更多。",
+      "SUB_TITLE": "通过透明、稳定的平台和优越的交易条件提升您的投资。选择 GOC Prime 以获得安全、高性能的交易体验。"
+    }
+  }
+}

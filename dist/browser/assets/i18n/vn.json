@@ -1,0 +1,426 @@
+{
+  "LOGIN": "Đăng nhập",
+  "LOGOUT": "Đăng xuất",
+  "REGISTER": "Đăng ký",
+  "ACCOUNT": "Tài khoản",
+  "SUBMIT_PROPERTY": "Gửi thuộc tính",
+  "MENU": "Thực đơn",
+  "MY_PROPERTIES": "Thuộc tính của tôi",
+  "FAVORITES": "Yêu thích",
+  "COMPARE": "So sánh",
+  "EDIT_PROFILE": "Chỉnh sửa hồ sơ",
+  "LOCK_SCREEN": "Màn hình khóa",
+  "HELP": "Trợ giúp",
+  "NAV": {
+    "HOME": "Nhà",
+    "PLATFORM" : "Nền tảng",
+    "TRADING": "Giao dịch",
+    "CALENDAR": "Lịch",
+    "ANNOUNCE": "Thông báo",
+    "SUB_ANNOUNCEMENT": "Nhận tất cả tin tức và cập nhật mới nhất từ công ty tại một nơi",
+    "PROMOTIONS": "Khuyến mãi",
+    "ABOUT_INFO": "Công ty",
+    "PARTNERS": "Đối tác",
+    "ACCOUNT": "Tài khoản",
+    "POINT_MALL": "Trung tâm mua sắm Point",
+
+    "PROPERTIES": "Thuộc tính",
+    "PAGES": "Trang",
+    "AGENTS": "Đại lý",
+    "AGENT": "Đại lý",
+    "FAQS": "Câu hỏi thường gặp",
+    "PRICING": "Định giá",
+    "TERMS_CONDITIONS": "Điều khoản & Điều kiện",
+    "LANDING": "Hạ cánh",
+    "404_PAGE": "Trang 404",
+    "OTHERS": "Những người khác",
+    "EXTERNAL_LINK": "Liên kết ngoài",
+    "MENU_ITEM": "Mục menu",
+    "CONTACT": "Liên hệ",
+    "ABOUT_US": "Giới thiệu về chúng tôi",
+    "ADMIN": "Quản trị viên",
+    "POLICY" : "Chính sách bảo mật"
+  },
+  "BTN": {
+    "ADD": "Thêm",
+    "SAVE": "Lưu",
+    "SUBMIT": "Gửi",
+    "CANCEL": "Hủy",
+    "UPLOAD": "Tải lên",
+    "REMOVE": "Xóa",
+    "YES": "Có",
+    "NO": "không",
+    "OK": "Được",
+    "CLEAR": "Rõ ràng",
+    "ADVANCED": "Nâng cao",
+    "HIDE": "Ẩn",
+    "START_TRADE" : "Bắt đầu giao dịch",
+    "TRYING_TRADE" : "Tài khoản demo",
+    "DOWNLOAD_MT5" : "Tải xuống MetaTrader 5",
+    "LEARN_MORE" : "Tìm hiểu thêm",
+    "SEND_NOW" : "Gửi ngay",
+    "REGISTER" : "Đăng ký"
+  },
+  "MESSAGE": {
+    "SURE_DELETE": "Bạn có chắc chắn muốn xóa không?",
+    "FILE_SIZE": "Kích thước tệp không thể vượt quá {{param}} kb."
+  },
+  "FIELD": {
+    "NAME": "Tên"
+  },
+  "PAGE" : {
+    "HOME" : {
+      "TITLE": "GOC Prime",
+      "SUB_TITLE1": "Giao dịch với <span> sự tự tin </span> Vượt xa <span> Mục tiêu </span> của bạn",
+      "SUB_TITLE1_MOBILE" : "Giao dịch với sự tự tin vượt xa mục tiêu của bạn",
+      "SUB_TITLE2": "Giao dịch tự tin với công nghệ tiên tiến và tính thanh khoản cao.",
+      "CONTENT_H2" : "<span>Nâng cao</span> trải nghiệm giao dịch của bạn",
+      "CONTENT_DESC" : "Bước vào tương lai giao dịch với nền tảng giao dịch minh bạch, tiên tiến của chúng tôi một cách tự tin, luôn kiểm soát!",
+      "CONTENT1_TITLE" : "Công nghệ tiên tiến",
+      "CONTENT1_DESC" : "GOC Prime – giao dịch ổn định, chính xác, nhanh chóng trên MT5.",
+      "CONTENT2_TITLE" : "Công cụ phân tích nâng cao",
+      "CONTENT2_DESC" : "Truy cập các chỉ báo và EA để <br> tối đa hóa tiềm năng lợi nhuận của bạn.",
+      "CONTENT3_TITLE" : "Thực thi lệnh nhanh.",
+      "CONTENT3_DESC" : "Không báo giá lại, không can thiệp.",
+      "CONTENT4_TITLE" : "Bảo mật cao",
+      "CONTENT4_DESC" : "Tiền của bạn được bảo đảm trong các tài khoản riêng biệt",
+      "TRADE_INFO_TITLE" : "Giao dịch tài sản từ <span>thị trường</span> toàn cầu",
+      "TRADE_INFO_DESC" : "Lợi nhuận từ những tài sản toàn cầu phổ biến nhất thế giới.",
+      "PLATFORM_TITLE1" : "Hiệu suất giao dịch vượt trội",
+      "PLATFORM_DESC1" : "Nâng cao trải nghiệm giao dịch của bạn trên mọi nền tảng với độ ổn định tối đa.",
+      "PLATFORM_TITLE2" : "Bảo mật và độ tin cậy",
+      "PLATFORM_DESC2" : "Bảo vệ toàn diện với thanh toán an toàn và bảo vệ số dư âm.",
+      "PLATFORM_ITEM1" : "Tài khoản demo",
+      "PLATFORM_ITEM2" : "Tại sao nên giao dịch với GOC Prime ?",
+      "PLATFORM_ITEM3" : "An ninh và Bảo vệ",
+      "NEWS_TITLE" : "Luôn cập nhật tin tức",
+      "NEWS_DESC" : "cập nhật sản phẩm và công nghệ, sự kiện, cơ hội hợp tác và nhiều hơn thế nữa.",
+      "NEWS_MORE" : "Đọc thêm"
+    },
+    "METATRADER" : {
+      "HEADER" : "MetaTrader 5",
+      "DESC" : "Đưa trải nghiệm giao dịch CFD của bạn lên một tầm cao mới.",
+      "H2" : "Giao dịch trên nền tảng <span>đặc biệt</span> có sẵn trên iOS và Android.",
+      "DESC_H2" : "Trải nghiệm giao dịch nhanh chóng, ổn định và an toàn thông qua nền tảng phổ biến của chúng tôi. Tương thích với tất cả các thiết bị, đảm bảo bạn không bao giờ bỏ lỡ cơ hội trên thị trường tài chính!",
+      "HOWTOUSEMT5_TITLE" : "Tải MT5 của bạn xuống đây!",
+      "CARD_TITLE_1" : "Thực hiện giao dịch thông minh",
+      "CARD_DESC_1" : "Thực hiện giao dịch ở tốc độ mili giây với khớp lệnh tự động chính xác, giảm thiểu trượt giá và loại bỏ báo giá lại—đảm bảo giao dịch hiệu quả ngay cả khi thị trường biến động.",
+      "CARD_TITLE_2" : "Phân tích thị trường nâng cao",
+      "CARD_DESC_2" : "Truy cập dữ liệu thị trường theo thời gian thực với hơn 38 chỉ báo kỹ thuật, công cụ phân tích định lượng và hệ thống phân tích xu hướng—cho phép lập kế hoạch giao dịch chính xác được hỗ trợ bởi sự hỗ trợ ra quyết định sâu sắc.",
+      "CARD_TITLE_3" : "Giao dịch nhiều tài sản",
+      "CARD_DESC_3" : "Hỗ trợ giao dịch trên nhiều loại tài sản—bao gồm Forex, cổ phiếu, hàng hóa và chỉ số—cho phép nhà giao dịch dễ dàng đa dạng hóa danh mục đầu tư và sử dụng các chiến lược giao dịch đa dạng trong một nền tảng duy nhất.",
+      "CARD_TITLE_4" : "Giao dịch an toàn và minh bạch",
+      "CARD_DESC_4" : "Giao dịch tự tin trên nền tảng có tiêu chuẩn bảo mật quốc tế. Tất cả các lệnh được thực hiện minh bạch mà không cần sự can thiệp của nhà môi giới, có sẵn lịch sử giao dịch đầy đủ—đảm bảo sự công bằng của thị trường.",
+      "TRADEMOBILE_TITLE" : "MetaTrader 5 Mobile Dễ dàng, giao dịch an toàn mọi lúc, mọi nơi.",
+      "TRADEMOBILE_TITLE_MOBILE" : "MetaTrader 5 di động dễ dàng",
+      "TRADEMOBILE_DESC_1" : "MetaTrader 5 Mobile được thiết kế để giúp bạn tiếp cận thị trường mọi lúc mọi nơi. Với giao diện thân thiện với người dùng, nó cung cấp các công cụ phân tích kỹ thuật toàn diện, tín hiệu giao dịch và cảnh báo giá theo thời gian thực để giúp bạn đưa ra quyết định giao dịch chính xác.",
+      "TRADEMOBILE_DESC_2" : "Thông qua các tín hiệu giao dịch và chức năng sao chép giao dịch của MetaTrader 5, nhà giao dịch có thể theo dõi và sao chép các chiến lược và giao dịch thành công. Lệnh được tự động sao chép vào tài khoản của bạn, giúp giao dịch dễ dàng.",
+      "TOOL_MT5_TITLE" : "Các công cụ tài chính bạn có thể giao dịch trên MT5.",
+      "TOOL_MT5_DESC" : "Tại GOC, bạn có thể giao dịch CFD trên hơn 200 công cụ tài chính, bao gồm các cặp tiền tệ Forex, kim loại, tiền điện tử, cổ phiếu, chỉ số và năng lượng.",
+      "SYMBOL_TITLE_1" : "Ngoại hối",
+      "SYMBOL_DESC_1" : "Giao dịch trên 100 cặp tiền thông qua CFD trên MT5, bao gồm các cặp chính như EUR/USD, GBP/USD, USD/JPY, cũng như các cặp ngoại lai mang lại cơ hội đầu tư bổ sung.",
+      "SYMBOL_TITLE_2" : "Kim loại",
+      "SYMBOL_DESC_2" : "Tiếp cận các thị trường kim loại quý hàng đầu, bao gồm Vàng (XAU/USD), Bạc (XAG/USD) và các kim loại công nghiệp khác.",
+      "SYMBOL_TITLE_3" : "Năng lượng",
+      "SYMBOL_DESC_3" : "Giao dịch trên thị trường năng lượng với CFD trên Dầu thô (UKOIL, USOIL) và Khí tự nhiên (XNG/USD), hỗ trợ các chiến lược dựa trên biến động của thị trường năng lượng toàn cầu.",
+      "SYMBOL_TITLE_4" : "Cổ phiếu",
+      "SYMBOL_DESC_4" : "Giao dịch các cổ phiếu hàng đầu thế giới như Apple, Tesla và Amazon thông qua CFD mà không cần sở hữu tài sản cơ bản.",
+      "SYMBOL_TITLE_5" : "Chỉ số",
+      "SYMBOL_DESC_5" : "Đa dạng hóa danh mục đầu tư của bạn với CFD trên các chỉ số chính trên toàn cầu, bao gồm Dow Jones (DJI), NASDAQ và NASDAQ, để tận dụng các biến động của thị trường toàn cầu.",
+      "SYMBOL_TITLE_6" : "Tiền điện tử",
+      "SYMBOL_DESC_6" : "Giao dịch các loại tiền điện tử phổ biến trên MetaTrader 5 thông qua CFD, bao gồm Bitcoin (BTC/USD), Ethereum (ETH/USD), Litecoin (LTC/USD), v.v..",
+      "WHYGOC_TITLE" : "Tại sao Nhà giao dịch chọn <span>GOC</span>",
+      "WHYGOC_DESC" : "Điều kiện giao dịch ưu việt, bảo mật nâng cao, tính minh bạch và hỗ trợ khách hàng tận tình—đây là những lý do khiến các nhà giao dịch tiếp tục chọn GOC.",
+      "CARD_TITLE_GOC_1" : "Rút tiền ngay lập tức",
+      "CARD_DESC_GOC_1" : "Kiểm soát tiền của bạn bằng cách rút tiền ngay lập tức—nhanh chóng, an toàn và không rắc rối.",
+      "CARD_TITLE_GOC_2" : "Thực thi lệnh nhanh",
+      "CARD_DESC_GOC_2" : "Luôn đón đầu xu hướng bằng khả năng khớp lệnh nhanh chóng. Thực hiện giao dịch của bạn nhanh chóng và dẫn đầu thị trường trong mọi chuyển động. Chỉ có tại GOC.",
+      "CARD_TITLE_GOC_3" : "Bảo vệ ngừng hoạt động",
+      "CARD_DESC_GOC_3" : "Hưởng lợi từ tính năng bảo vệ Ngưng giao dịch độc đáo của chúng tôi—trì hoãn hoặc thậm chí tránh việc đóng lệnh tự động khi giao dịch với GOC."
+    },
+
+    "ABOUT" : {
+      "H1" : "Làm quen với nhà môi giới <br> GOC Prime",
+      "DESC" : "Giao dịch với sự tự tin vượt xa mục tiêu của bạn Trải nghiệm giao dịch liền mạch và không bị gián đoạn với tính bảo mật và minh bạch trong mọi giao dịch. Chúng tôi cam kết tạo ra vô số cơ hội giao dịch trên nền tảng chuyên nghiệp và đáng tin cậy, hỗ trợ mọi phong cách đầu tư bằng công nghệ hiện đại và thông minh. GOC Prime.",
+      "H2_S1_TITLE" : "Giới thiệu về chúng tôi",
+      "H2_S1_DESC" : "Chúng tôi cam kết trở thành nền tảng giao dịch lớn nhất thế giới, được thúc đẩy bởi công nghệ tiên tiến, ổn định và thân thiện với người dùng, nâng cao trải nghiệm giao dịch với điều kiện thị trường vượt trội. Chúng tôi mong muốn trở thành một tổ chức phát triển và tiến về phía trước, mở rộng cơ hội và đẩy các giới hạn giao dịch để đảm bảo rằng các nhà giao dịch, nhà đầu tư và đối tác cùng nhau thành công.",
+      "H2_S2_TITLE" : "Độ tin cậy là cốt lõi",
+      "H2_S2_DESC" : "Độ tin cậy là trọng tâm của GOC Prime. Chúng tôi cam kết duy trì các tiêu chuẩn cao nhất về tính chính trực, minh bạch và trách nhiệm. Hệ thống giao dịch của chúng tôi được thiết kế để đảm bảo an toàn, đáng tin cậy và quản lý rủi ro hiệu quả nhằm bảo vệ tiền của khách hàng. Chúng tôi tuân thủ nghiêm ngặt các yêu cầu pháp lý và liên tục phát triển với các giải pháp đổi mới, được hỗ trợ bởi đội ngũ chuyên gia và thành tích tốt. GOC Prime là đối tác đáng tin cậy trong thế giới giao dịch.",
+      "H2_S3_TITLE" : "GOC Prime giúp các nhà giao dịch vượt qua giới hạn của họ với các điều kiện công bằng, công nghệ tiên tiến và tính thanh khoản cao.",
+      "H2_S3_DESC" : "Nhóm phát triển GOC Prime",
+      "H2_S4_TITLE" : "Giá trị cốt lõi của GOC Prime.",
+      "H2_S4_DESC" : "GOC Prime cam kết kinh doanh mạnh mẽ và bền vững, tập trung vào việc thúc đẩy sự thành công của các nhà đầu tư đồng thời thiết lập các tiêu chuẩn mới trong ngành tài chính!",
+      "CARD_TITLE_1" : "Cơ hội đầu tư toàn cầu vô hạn.",
+      "CARD_DESC_1" : "GOC Prime mở ra một thế giới giao dịch không biên giới với tài sản đa dạng và nền tảng tiên tiến, giúp bạn tiếp cận thị trường và tự tin định hình tương lai của mình!",
+      "CARD_TITLE_2" : "Bảo vệ khoản đầu tư của bạn, tăng cường sự tự tin của bạn.",
+      "CARD_DESC_2" : "GOC Prime cam kết bảo mật cao nhất với các biện pháp bảo vệ tiêu chuẩn quốc tế, đảm bảo mọi giao dịch đều ổn định và không phải lo lắng.",
+      "CARD_TITLE_3" : "Sự đổi mới của tương lai.",
+      "CARD_DESC_3" : "GOC Prime phát triển các giải pháp giao dịch tiên tiến, mang lại trải nghiệm đầu tư nâng cao đồng thời thích ứng với mọi thay đổi của thị trường!",
+      "CARD_TITLE_4" : "Minh bạch và công bằng",
+      "CARD_DESC_4" : "Với tính minh bạch và có thể xác minh, chúng tôi là nhà môi giới đáng tin cậy mà khách hàng tin cậy.",
+      "CONTACT" : "Liên hệ với chúng tôi",
+      "CONTACT_INFO" : "Để lại thông tin liên hệ của bạn. Chúng tôi sẽ liên hệ với bạn trong vòng 1 ngày làm việc.",
+      "GET_IN_TOUCH": {
+        "TITLE": "Giao dịch suôn sẻ Mỗi giây đều quý giá",
+        "SUB_TITLE": "Cung cấp một nền tảng ổn định, nhanh chóng và có tính thanh khoản cao. Để mọi lệnh giao dịch có thể diễn ra một cách chính xác và không bị gián đoạn, mang đến cho các nhà giao dịch cơ hội vững vàng tiến tới thành công"
+      }
+    },
+    "TRADINGACCOUNT": {
+      "HEADER": {
+        "TITLE": "Tài khoản giao dịch",
+        "DESCRIPTION": "Tài khoản giao dịch GOC Prime cung cấp Hoán đổi miễn phí trên tất cả các loại tài khoản, cung cấp cho bạn nhiều con đường tiếp cận thị trường tài chính và các lợi ích độc quyền để nâng cao trải nghiệm giao dịch của bạn."
+      },
+      "ACCOUNTS": {
+        "CENT": {
+          "DESCRIPTION": "Tài khoản đầu tư cấp độ người mới bắt đầu.",
+          "MIN_DEPOSIT": "Tiền gửi tối thiểu",
+          "SPREAD": "Lây lan",
+          "LEVERAGE": "Đòn bẩy",
+          "ASSETS": "Biểu tượng có sẵn",
+          "SPREAD_VALUE": "Bắt đầu 1.0*",
+          "LEVERAGE_VALUE": "1 : 1000",
+          "COMMISSION": "Hoa hồng",
+          "COMMISSION_VALUE": "Không có hoa hồng",
+          "ASSETS_VALUE": "Forex,Kim loại,Năng lượng",
+          "REGISTER": "Đăng ký"
+        },
+        "STANDARD": {
+          "TITLE": "Tiêu chuẩn",
+          "DESCRIPTION": "Thích hợp cho người buôn bán nói chung.",
+          "MIN_DEPOSIT": "Tiền gửi tối thiểu",
+          "SPREAD": "Lây lan",
+          "LEVERAGE": "Đòn bẩy",
+          "ASSETS": "Biểu tượng có sẵn",
+          "MIN_DEPOSIT_VALUE": "$10",
+          "SPREAD_VALUE": "Bắt đầu 1.0*",
+          "COMMISSION": "Hoa hồng",
+          "COMMISSION_VALUE": "Không có hoa hồng",
+          "LEVERAGE_VALUE": "1 : 1000",
+          "ASSETS_VALUE": "Forex,Kim loại,Năng lượng,Tiền điện tử."
+        },
+        "ECN": {
+          "TITLE": "ECN",
+          "DESCRIPTION": "Thích hợp cho nhà đầu tư chuyên nghiệp.",
+          "MIN_DEPOSIT": "Tiền gửi tối thiểu",
+          "SPREAD": "Lây lan",
+          "LEVERAGE": "Đòn bẩy",
+          "ASSETS": "Biểu tượng có sẵn",
+          "MIN_DEPOSIT_VALUE": "$2000",
+          "SPREAD_VALUE": "Bắt đầu 0,1*",
+          "COMMISSION": "Hoa hồng",
+          "COMMISSION_VALUE": "Bắt đầu $5 / Lô",
+          "LEVERAGE_VALUE": "1 : 1000",
+          "ASSETS_VALUE": "Forex,Kim loại,Năng lượng,Tiền điện tử"
+        }
+      },
+      "ACCOUNT_INFO": {
+        "TABLE_HEADER": {
+          "ACCOUNT_TYPE": "",
+          "CENT": "Trọng",
+          "STANDARD": "Tiêu chuẩn"
+        },
+        "TABLE_ROWS": {
+          "MIN_DEPOSIT": "Tiền gửi tối thiểu",
+          "SPREAD": "Lây lan",
+          "FEE": "Hoa hồng",
+          "MAX_LEVERAGE": "Đòn bẩy",
+          "ASSETS": "Biểu tượng",
+          "MIN_LOT": "Lô tối thiểu",
+          "MAX_LOT": "Lô tối đa",
+          "MAX_OPEN_ORDERS": "Vị trí tối đa",
+          "MARGIN_ALERT": "Gọi ký quỹ",
+          "STOP_OUT": "Dừng lại",
+          "SWAP_FREE": "Hoán đổi"
+        },
+        "TABLE_VALUE" : {
+          "2" : "Không có hoa hồng",
+          "3" : " 1 : 1000",
+          "4" : "Forex,Kim loại, Năng lượng, Tiền điện tử",
+          "5" : "Forex, Kim loại, Năng lượng",
+          "6" : "Không giới hạn"
+        }
+      },
+      "FAQS": {
+        "TITLE": "Câu hỏi thường gặp",
+        "QUESTIONS": {
+          "NIGHT_TRADE_LOT_LIMIT": "Giao dịch trong thời điểm có tin tức kinh tế, đòn bẩy có giảm không?"
+        },
+        "ANSWERS": {
+          "NIGHT_TRADE_LOT_LIMIT": "Đòn bẩy không giảm trong những khoảng thời gian như vậy."
+        }
+      }
+    },
+    "CALENDAR" : {
+      "TITLE": "Lịch kinh tế GOC",
+      "DESCRIPTION": "Luôn cập nhật tin tức kinh tế tác động đến thị trường tài chính toàn cầu bằng lịch kinh tế thời gian thực của GOC. Nhận thông tin cập nhật quan trọng về các công bố dữ liệu kinh tế, sự kiện tài chính lớn và xu hướng thị trường có thể ảnh hưởng đến khoản đầu tư của bạn.",
+      "CURRENCY": {
+        "LABEL": "Biểu tượng",
+        "ALL": "Tất cả"
+      },
+      "ASSET" : {
+        "TIME" : "Thời gian",
+        "EVENT" : "Sự kiện"
+      },
+      "SECTION_3": {
+          "TITLE": "Lập kế hoạch giao dịch của bạn với Lịch kinh tế GOC",
+          "DESCRIPTION": "Lịch kinh tế của GOC cung cấp thông tin quan trọng về các sự kiện kinh tế toàn cầu có thể tác động đến thị trường Forex, chứng khoán, hàng hóa và tiền điện tử. Với thông tin cập nhật theo thời gian thực và thông tin chi tiết chuyên sâu, bạn có thể phân tích xu hướng thị trường, lập chiến lược và thích ứng với các tình huống tài chính.",
+          "SUBTITLE": "Luôn cập nhật tin tức thị trường tài chính theo thời gian thực.",
+          "FOOTER" : "Các loại tin tức chính trên thị trường ngoại hối:",
+          "NEWS_TYPE_1_CATEGORY": "Chỉ số kinh tế",
+          "NEWS_TYPE_1_ITEM_1": "GDP (Tổng sản phẩm quốc nội): Đo lường tăng trưởng kinh tế.",
+          "NEWS_TYPE_1_ITEM_2": "Dữ liệu việc làm (NFP, Tỷ lệ thất nghiệp): Cho biết tình trạng của thị trường lao động.",
+          "NEWS_TYPE_1_ITEM_3": "Các quyết định về lãi suất: Được công bố bởi các ngân hàng trung ương, ảnh hưởng đến chính sách tiền tệ.",
+          "NEWS_TYPE_1_ITEM_4": "Lạm phát (CPI, PPI): Phản ánh xu hướng chi phí sinh hoạt và điều chỉnh lãi suất.",
+
+          "NEWS_TYPE_2_CATEGORY": "Thông báo của Ngân hàng Trung ương",
+          "NEWS_TYPE_2_ITEM_1": "Báo cáo cuộc họp từ Fed (Hoa Kỳ), ECB (Châu Âu), BOE (Anh), BOJ (Nhật Bản)",
+          "NEWS_TYPE_2_ITEM_2": "Dự báo và xu hướng lãi suất ảnh hưởng đến thị trường tiền tệ và giá trị tiền tệ.",
+
+          "NEWS_TYPE_3_CATEGORY": "Chính sách tài chính và tiền tệ",
+          "NEWS_TYPE_3_ITEM_1": "Tuyên bố của các nhà lãnh đạo về kích thích kinh tế và cắt giảm thuế.",
+          "NEWS_TYPE_3_ITEM_2": "Kế hoạch ngân sách và chính sách tiền tệ tác động đến giá trị tiền tệ và tỷ giá hối đoái.",
+
+          "NEWS_TYPE_4_CATEGORY": "Sự kiện địa chính trị và khủng hoảng",
+          "NEWS_TYPE_4_ITEM_1": "Chiến tranh, xung đột thương mại, lệnh trừng phạt hoặc các sự kiện quan trọng ảnh hưởng đến thị trường."
+      },
+
+      "WHY_GOC": {
+        "TITLE": "Tại sao nhà giao dịch chọn <span>GOC</span>",
+        "DESCRIPTION": "Điều kiện giao dịch ưu việt, bảo mật nâng cao, tính minh bạch và hỗ trợ khách hàng tận tình—đây là những lý do khiến các nhà giao dịch tiếp tục chọn GOC.",
+        "CARDS": {
+          "WITHDRAW": {
+            "TITLE": "Rút tiền ngay lập tức",
+            "DESCRIPTION": "Kiểm soát tiền của bạn bằng cách rút tiền ngay lập tức—nhanh chóng, an toàn và không gặp rắc rối."
+          },
+          "FAST_EXECUTION": {
+            "TITLE": "Thực thi lệnh nhanh",
+            "DESCRIPTION": "Luôn đón đầu xu hướng bằng khả năng khớp lệnh nhanh chóng. Thực hiện giao dịch của bạn nhanh chóng và dẫn đầu thị trường trong mọi bước đi. Chỉ có tại GOC."
+          },
+          "STOP_OUT_PROTECTION": {
+            "TITLE": "Bảo vệ ngừng hoạt động",
+            "DESCRIPTION": "Hưởng lợi từ tính năng bảo vệ Ngưng giao dịch độc đáo của chúng tôi—trì hoãn hoặc thậm chí tránh việc đóng lệnh tự động khi giao dịch với GOC."
+          }
+        }
+      },
+      "FAQS": {
+        "TITLE": "Câu hỏi thường gặp",
+        "QUESTIONS": {
+          "BENEFITS": {
+            "TITLE": "Lợi ích của Lịch kinh tế",
+            "DESCRIPTION_1": "Lịch kinh tế tập trung vào các sự kiện kinh tế và chính trị quan trọng cả trong nước và quốc tế, có thể tác động đáng kể đến biến động giá của các công cụ giao dịch.",
+            "DESCRIPTION_2": "Lịch đầu tư này sẽ được cập nhật tự động để đảm bảo các nhà giao dịch nhận được tin tức mới nhất về các sự kiện sắp tới có thể ảnh hưởng đến giao dịch của họ."
+          },
+          "EXAMPLES": {
+            "TITLE": "Ví dụ về các sự kiện được hiển thị trong Lịch kinh tế",
+            "DESCRIPTION_1": "Lịch kinh tế tập trung vào các sự kiện kinh tế và chính trị quan trọng cả trong nước và quốc tế, có thể tác động đáng kể đến biến động giá của các công cụ giao dịch.",
+            "DESCRIPTION_2": "Lịch đầu tư này sẽ được cập nhật tự động để đảm bảo các nhà giao dịch nhận được tin tức mới nhất về các sự kiện sắp tới có thể ảnh hưởng đến giao dịch của họ."
+          },
+          "IMPORTANCE": {
+            "TITLE": "Tầm quan trọng của Lịch kinh tế",
+            "DESCRIPTION_1": "Lịch kinh tế tập trung vào các sự kiện kinh tế và chính trị quan trọng cả trong nước và quốc tế, có thể tác động đáng kể đến biến động giá của các công cụ giao dịch.",
+            "DESCRIPTION_2": "Lịch đầu tư này sẽ được cập nhật tự động để đảm bảo các nhà giao dịch nhận được tin tức mới nhất về các sự kiện sắp tới có thể ảnh hưởng đến giao dịch của họ."
+          },
+          "HOWTOUSE": {
+            "TITLE": "Cách sử dụng Lịch kinh tế",
+            "DESCRIPTION_1": "Lịch kinh tế tập trung vào các sự kiện kinh tế và chính trị quan trọng cả trong nước và quốc tế, có thể tác động đáng kể đến biến động giá của các công cụ giao dịch.",
+            "DESCRIPTION_2": "Lịch đầu tư này sẽ được cập nhật tự động để đảm bảo các nhà giao dịch nhận được tin tức mới nhất về các sự kiện sắp tới có thể ảnh hưởng đến giao dịch của họ."
+          },
+          "HOWTOREAD": {
+            "TITLE": "Cách đọc lịch kinh tế",
+            "DESCRIPTION_1": "Lịch kinh tế tập trung vào các sự kiện kinh tế và chính trị quan trọng cả trong nước và quốc tế, có thể tác động đáng kể đến biến động giá của các công cụ giao dịch.",
+            "DESCRIPTION_2": "Lịch đầu tư này sẽ được cập nhật tự động để đảm bảo các nhà giao dịch nhận được tin tức mới nhất về các sự kiện sắp tới có thể ảnh hưởng đến giao dịch của họ."
+          },
+          "RELIABILITY": {
+            "TITLE": "Độ tin cậy của thông tin trong Lịch kinh tế",
+            "DESCRIPTION_1": "Lịch kinh tế tập trung vào các sự kiện kinh tế và chính trị quan trọng cả trong nước và quốc tế, có thể tác động đáng kể đến biến động giá của các công cụ giao dịch.",
+            "DESCRIPTION_2": "Lịch đầu tư này sẽ được cập nhật tự động để đảm bảo các nhà giao dịch nhận được tin tức mới nhất về các sự kiện sắp tới có thể ảnh hưởng đến giao dịch của họ."
+          },
+          "CUSTOMCALENDAR": {
+            "TITLE": "Lịch kinh tế có thể được tùy chỉnh để phù hợp với nhu cầu giao dịch không?",
+            "DESCRIPTION_1": "Lịch kinh tế tập trung vào các sự kiện kinh tế và chính trị quan trọng cả trong nước và quốc tế, có thể tác động đáng kể đến biến động giá của các công cụ giao dịch.",
+            "DESCRIPTION_2": "Lịch đầu tư này sẽ được cập nhật tự động để đảm bảo các nhà giao dịch nhận được tin tức mới nhất về các sự kiện sắp tới có thể ảnh hưởng đến giao dịch của họ."
+          }
+        }
+      }
+    },
+    "PROMOTIONS" : {
+      "TITLE" : "Khuyến mãi của GOC Prime"
+    },
+    "PARTNERS" : {
+      "SECTION1": {
+        "HEADER": "Chương trình đối tác chính của GOC",
+        "DESCRIPTION": "Kiếm thu nhập ổn định bằng cách giới thiệu khách hàng giao dịch với công ty dẫn đầu thị trường toàn cầu.",
+        "PARTNERS_LABEL": "Số lượng đối tác của chúng tôi.",
+        "TOTAL_MONEY_LABEL": " Tổng số tiền mà đối tác của chúng tôi kiếm được.",
+        "MONTHLY_REWARD_LABEL": "Phần thưởng hàng tháng mà các đối tác hàng đầu kiếm được.",
+        "START_BUTTON": "Bắt đầu giao dịch"
+      },
+      "SECTION2": {
+        "WHAT_YOU_WILL_RECEIVE":  "Bạn sẽ nhận được gì",
+        "IB_PROGRAM": "Giới thiệu chương trình môi giới (IB).",
+        "IB_DESCRIPTION": "Kiếm thu nhập ổn định từ <br> mạng lưới khách hàng của bạn.",
+        "FOOTER": "Hợp tác với nhà môi giới toàn cầu và liên tục kiếm phần thưởng <br> từ mạng lưới khách hàng của bạn.",
+        "AFFILIATE_PROGRAM": "Chương trình liên kết.",
+        "AFFILIATE_DESCRIPTION": "Nhận phần thưởng cạnh tranh <br> và cơ hội phát triển.",
+        "AFFILIATE_FOOTER": "Mở rộng cơ hội kinh doanh của bạn với kế hoạch trả thưởng <br> linh hoạt, cùng với các công cụ hỗ trợ sự phát triển của bạn.",
+        "MORE" : "Thêm"
+      },
+      "SECTION3": {
+        "REASONS_TO_PARTNER": "Lý do trở thành <span> Đối tác </span> của GOC Prime.",
+        "TRUSTWORTHY_PARTNER": "Chúng tôi là đối tác mà bạn có thể tin tưởng để cùng nhau phát triển.",
+        "SUPPORT": "Chúng tôi hỗ trợ các đối tác của mình bằng sự minh bạch, ổn định và hướng dẫn của chuyên gia để mở rộng mạng lưới.",
+        "TOOLS_AND_STRATEGIES": "Cung cấp các công cụ và chiến lược để <br> nâng cao thành công của bạn.",
+        "RESULTS_AND_STRATEGY": "Chúng tôi cung cấp các công cụ cần thiết và <br> tài liệu hỗ trợ để giúp bạn lập kế hoạch <br> và củng cố mạng lưới của mình.",
+        "FAIR_REWARDS": "Cung cấp phần thưởng <br> công bằng và liên tục.",
+        "FAIR_REWARDS_DESC": "Chúng tôi hỗ trợ đối tác của mình bằng những phần thưởng có giá trị và minh bạch. Bạn có thể tự tin rằng họ đang làm việc.",
+        "ACCURATE_ANALYSIS": "Phân tích và trình bày dữ liệu thống kê để giúp bạn lập kế hoạch chính xác.",
+        "ACCURATE_ANALYSIS_DESC": "Theo dõi kết quả kinh doanh của bạn bằng hệ thống phân tích chính xác, <br> điều chỉnh chiến lược một cách hiệu quả.",
+        "FLEXIBLE_MANAGEMENT": "Quản lý doanh nghiệp của bạn một cách linh hoạt <br> và thuận tiện, <br> mọi lúc, mọi nơi.",
+        "FLEXIBLE_MANAGEMENT_DESC": "Dễ dàng theo dõi báo cáo, quản lý trả lại, <br> và duy trì mối quan hệ khách hàng <br>thông qua nền tảng hiện đại.",
+        "FAST_PAYMENT": "Nhận phần thưởng nhanh chóng <br> và an toàn. <br> <br>",
+        "FAST_PAYMENT_DESC": "Hệ thống thanh toán nhanh chóng và đa dạng hỗ trợ các kênh giao dịch an toàn"
+      },
+      "SECTION4": {
+        "REASONS_TO_TRADE_WITH_US": "Lý do <br>nhà giao dịch chuyên nghiệp <br>chọn dịch vụ của chúng tôi...",
+        "STABLE_PLATFORM": "Nền tảng ổn định, nhanh chóng và thân thiện với người dùng, hỗ trợ cả <br> máy tính để bàn và thiết bị di động, cho phép bạn truy cập thị trường mọi lúc, mọi nơi.",
+        "HIGH_LEVERAGE": "Đòn bẩy cao và điều kiện giao dịch linh hoạt cho phép bạn quản lý <br> rủi ro và tối đa hóa cơ hội lợi nhuận một cách hiệu quả.",
+        "FAST_DEPOSIT_WITHDRAW": "Gửi và rút tiền nhanh chóng, hỗ trợ các giao dịch <br> an toàn và tức thì, cho phép bạn truy cập vào tiền của mình bất cứ lúc nào.",
+        "VARIOUS_ASSETS": "Một loạt các tài sản giao dịch, cho phép bạn giao dịch Forex, chỉ số, <br>cổ phiếu, hàng hóa và tiền điện tử trên một nền tảng duy nhất.",
+        "LOW_SPREAD": "Mức chênh lệch thấp và giao dịch tiết kiệm chi phí giúp bạn tối đa hóa lợi nhuận <br> mà không phải lo lắng về các khoản phí ẩn.",
+        "SUPPORT_CENTER": "Trung tâm trợ giúp với các phân tích thị trường, tin tức và khóa học dành cho nhà giao dịch <br> ở mọi cấp độ."
+      },
+      "SECTION5": {
+        "TOOLS_AND_SERVICES":  "Các công cụ và dịch vụ bạn có thể cung cấp cho khách hàng của mình.",
+        "GOC_APP": "Ứng dụng GOC Prime Trader Mobile",
+        "PLATFORM": "Nền tảng giao dịch đẳng cấp thế giới.",
+        "PLATFORM_DESC": "Hỗ trợ cả việc sử dụng Máy tính để bàn <br>và Thiết bị di động.",
+        "PERSONAL_AREA": "Không gian cá nhân hóa dành cho nhà giao dịch.",
+        "PERSONAL_AREA_DESC": "Dễ dàng quản lý tài khoản của bạn, <br> tiền gửi/rút tiền và <br> dữ liệu giao dịch.",
+        "ADDITIONAL_SERVICES": "Các dịch vụ bổ sung giúp <br>giao dịch hiệu quả.",
+        "ADDITIONAL_SERVICES_DESC": "Tín hiệu giao dịch theo thời gian thực, phân tích <br> và tin tức thị trường."
+      },
+      "SECTION6": {
+        "HIGHEST_EARNINGS": "Lợi nhuận cao nhất mà <span>các đối tác</span> kiếm được",
+        "LAST_MONTH": "Tháng trước",
+        "PARTNER_1": "Đối tác hàng đầu ở Châu Á.",
+        "PARTNER_2": "Đối tác từ Trung Đông",
+        "PARTNER_3": "Đối tác từ Malaysia",
+        "PARTNER_4": "Đối tác từ Việt Nam",
+        "PARTNER_5": "Đối tác từ Trung Quốc",
+        "CUSTOMER_SERVICE":  "Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với <br>nhóm dịch vụ khách hàng của chúng tôi.",
+        "CONTACT_US": "Trò chuyện trực tiếp"
+      },
+      "SECTION7" : "Hãy tham gia GOC Prime với tư cách là đối tác ngay hôm nay."
+    },
+    "POINT_MALL" : {
+      "H1" : "GOC Prime Point Mall",
+      "SUBTITLE" : "GOC Prime Point Mall là chương trình tích điểm thưởng giúp bạn nhận điểm mỗi khi giao dịch. Bạn có thể dùng điểm này để đổi lấy những phần quà độc quyền từ chúng tôi.",
+      "H2" : "Biến mọi giao dịch thành phần thưởng cùng GOC Prime",
+      "TITLE" : "Mỗi khi bạn giao dịch, hoặc khi khách hàng của bạn giao dịch (nếu bạn là đối tác), bạn sẽ tích lũy được điểm thưởng. Hãy sử dụng điểm để đổi lấy nhiều quà tặng hấp dẫn từ chúng tôi. Giao dịch càng nhiều, nhận càng nhiều!"
+    },
+    "GET_IN_TOUCH": {
+      "TITLE": "Nhận được nhiều hơn với GOC Prime.",
+      "SUB_TITLE": "Nâng cao khoản đầu tư của bạn bằng nền tảng minh bạch, ổn định và Điều kiện giao dịch ưu việt. Hãy chọn GOC Prime để có trải nghiệm Giao dịch an toàn và hiệu suất cao."
+    }
+  }
+}

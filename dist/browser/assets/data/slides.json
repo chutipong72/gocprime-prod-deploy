@@ -1,0 +1,23 @@
+[
+    { 
+        "image": {
+            "desktop" : "assets/images/goc/home/banner-promotion-03.png",
+            "mobile" : "assets/images/goc/home/slide-promotion-mobile.png"
+        },
+        "button": "เรียนรู้เพิ่มเติม"
+    },
+    { 
+        "image": {
+            "desktop" : "assets/images/goc/home/banner-promotion-03.png",
+            "mobile" : "assets/images/goc/home/slide-promotion-mobile.png"
+        },
+        "button": "ลงทะเบียน"
+    },
+    { 
+        "image": {
+            "desktop" : "assets/images/goc/home/banner-promotion-03.png",
+            "mobile" : "assets/images/goc/home/slide-promotion-mobile.png"
+        },
+        "button": "เข้าสู่ระบบ"
+    }
+]
