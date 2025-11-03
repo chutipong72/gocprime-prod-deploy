@@ -201,7 +201,7 @@
         },
         "ECN": {
           "TITLE": "Standard",
-          "DESCRIPTION": "เหมาะสำหรับเทรดเดอร์มือใหม่ เริ่มต้นเทรดด้วยไมโครล็อต",
+          "DESCRIPTION": "เหมาะกับเทรดเดอร์มืออาชีพ",
           "MIN_DEPOSIT": "เงินฝากขั้นต่ำ",
           "SPREAD": "สเปรด",
           "LEVERAGE": "เลเวอเรจสูงสุด",
@@ -209,7 +209,7 @@
           "MIN_DEPOSIT_VALUE": "$2000",
           "SPREAD_VALUE": "เริ่มต้นที่ 0.1*",
           "COMMISSION": "ค่าธรรมเนียม",
-          "COMMISSION_VALUE": "ไม่มีค่าธรรมเนียม",
+          "COMMISSION_VALUE": "Start $5 / Lot",
           "LEVERAGE_VALUE": "1 : 1000",
           "ASSETS_VALUE": "ฟอเร็กซ์,โลหะมีค่า,พลังงาน,คริปโตเคอเรนซี่"
         }
